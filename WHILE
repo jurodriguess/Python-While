@@ -1,5 +1,5 @@
-numero_secreto = 7
-palpite = -1  # valor inicial qualquer diferente de 7
+numero_secreto = 10
+palpite = -1  # valor inicial qualquer diferente de 10
 
 print("Tente adivinhar o número secreto entre 1 e 10!")
 
